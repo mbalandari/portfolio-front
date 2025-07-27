@@ -144,8 +144,7 @@ a:visited {
 
 a:hover,
 a:focus {
-    text-decoration: underline;
-    color: #e63946;
+    color: #D4AF37;
     /* Optional accent color */
 }
 
@@ -153,4 +152,5 @@ html,
 body {
     height: 100%;
     margin: 0;
+    color: #1E1E1E;
 }
