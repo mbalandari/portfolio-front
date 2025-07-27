@@ -148,3 +148,9 @@ a:focus {
     color: #e63946;
     /* Optional accent color */
 }
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}

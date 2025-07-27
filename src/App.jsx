@@ -8,9 +8,9 @@ export default function App() {
     <Navbar />
     <main className="main-layout">
       <div className="left-panel">
-        <a href="#">Portraits</a>
-        <a href="#">Landscapes</a>
-        <a href="#">Street</a>
+        <a className='category cat-1' href="#"></a>
+        <a className='category cat-2' href="#"></a>
+        <a className='category cat-3' href="#"></a> 
       </div>
       <div className="right-panel">
         <h2>About Me</h2>
